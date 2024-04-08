@@ -1,16 +1,4 @@
-a1) Select * from syn_branch .
-Q) syn_branch is a synonym and already  created but if I execute above quey it is giving error ,
- what can be the reason?
-   2)  difference between table and synonym?
-  3)difference between view and synonym?
-4)what permission require from sys to create private and public synonyms?
-5)when index will be usefull?
-6)what is tablespace?
-7) what is gement?
-8)what  is pctfree?
-9)if you drop table then what will happen to synonym?
-10)on which objects we can not create synony?
-11)29 hrs?out put should come  like this?1 day 5 hours
+me  like this?1 day 5 hours
 12)truncate and delete difference?
 13)case & decode differenece?
 14)rowed and rownum  difference?
